@@ -1,41 +1,54 @@
-<h1 align="center">Olá, sou a Maria Julia 👋</h1>
-
-<h3 align="center">✨Sobre mim</h3>
-
-<p align="center">
-Estou cursando engenharia de computação, e fazendo Bootcamp FullStack Java pela Generation
-</p>
-
-<br>
-
-<div align="center">
- <a href="https://github.com/Maju2016">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maju2016&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maju2016&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-<br>
-<br>
-
-<h3 align="center">📖 Conhecimentos</h3>
+<!-- Banner -->
+<h1 align="center">👋 Olá, eu sou Maria Julia</h1>
+<h3 align="center">💻 Desenvolvedora Web em formação </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
+ <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQxYzY4NjlkNzFjM2Q1NTQ1NjQyNDVjYzQ2YjI4OTMyNzMyZWY5NiZjdD1n/l3vR3z8j8oK8jzYWs/giphy.gif" width="400"/> -->
 </p>
 
-<br>
+---
 
-<h3 align="center">💻 Conecte-se comigo</h3>
+<h2 align="center">✨ Sobre mim</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariajulia-medeiros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Sou uma estudante de engenharia de compuatação na Escola de Engenharia de Piracicaba (EEP),
 </p>
+
+
+---
+
+<h2 align="center">🧰 Conhecimentos</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maju2016&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maju2016&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<h2 align="center">📫 Onde me encontrar</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
+
