@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá, eu sou Maria Julia</h1>
-<h3 align="center">💻 Desenvolvedora Web em formação </h3>
+<h1 align="center">👋 Hi, I'm Maria Julia</h1>
+<h3 align="center">💻 Web Developer in making </h3>
 
 <p align="center">
  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQxYzY4NjlkNzFjM2Q1NTQ1NjQyNDVjYzQ2YjI4OTMyNzMyZWY5NiZjdD1n/l3vR3z8j8oK8jzYWs/giphy.gif" width="400"/> -->
@@ -8,16 +8,18 @@
 
 ---
 
-<h2 align="center">✨ Sobre mim</h2>
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-Sou uma estudante de engenharia de compuatação na Escola de Engenharia de Piracicaba (EEP),
+I'm a Computer Engineering student passionate about solving real-world problems through technology.
+Currently, I'm challenging myself by taking a Full Stack Java Bootcamp to strengthen my skills and grow as a developer.
+I'm always motivated to learn new technologies, and turn ideas into impactful applications.
 </p>
 
 
 ---
 
-<h2 align="center">🧰 Conhecimentos</h2>
+<h2 align="center">📚 Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -35,7 +37,7 @@ Sou uma estudante de engenharia de compuatação na Escola de Engenharia de Pira
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📊 Github Stats</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maju2016&show_icons=true&theme=radical"/>
@@ -44,7 +46,7 @@ Sou uma estudante de engenharia de compuatação na Escola de Engenharia de Pira
 
 ---
 
-<h2 align="center">📫 Onde me encontrar</h2>
+<h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
