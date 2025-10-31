@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm Maria Julia</h1>
-<h3 align="center">💻 Web Developer in making </h3>
+<h3 align="center">💻 Web Developer in Training </h3>
 
 <p align="center">
  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQxYzY4NjlkNzFjM2Q1NTQ1NjQyNDVjYzQ2YjI4OTMyNzMyZWY5NiZjdD1n/l3vR3z8j8oK8jzYWs/giphy.gif" width="400"/> -->
